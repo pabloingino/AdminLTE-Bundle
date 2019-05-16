@@ -1,0 +1,6 @@
+mi_homepage:
+    path:     /mibundle
+    defaults: { _controller: MiBundle:Default:index }
+tempOriginal:
+    path:     /mibundle/original
+    defaults: { _controller: MiBundle:Default:original }
